@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Hello, My name is Leticia! I’m currently a Y1 student at SIT and this website for AAI1001 Data Engineering & Visualization!\n\n\nAbout Me\n\nProgramme: Applied Computing\nInterests: Data analytics and Visualization"
+    "text": "Hello, My name is Leticia! I’m currently a Y1 student at SIT and this website for AAI1001 Data Engineering & Visualization!\n\n\nAbout Me\n\nProgramme: Applied Computing\nInterests: Data analytics, Visualization and Web development"
   },
   {
     "objectID": "about.html",
@@ -39,7 +39,7 @@
     "href": "reflection.html",
     "title": "Reflection on the use of GenAI",
     "section": "",
-    "text": "I used ChatGPT to help me understand Quarto, GitHub Pages, and Markdown formatting. I chose it because it provides quick and clear guidance."
+    "text": "GenAI Tool Used\nI used ChatGPT to help me understand Quarto, GitHub Pages, and Markdown formatting. I chose it because it provides quick and clear guidance.\n\n\nHow it Helped\n\nStep-by-step explanations for creating pages and editing _quarto.yml.\n\nSuggestions on formatting, bullet points, and Markdown best practices.\n\nDebugged small errors like YAML indentation and Markdown rendering issues.\n\n\n\nBenefits\n\nSaved time by giving clear instructions.\n\nHelped me avoid common mistakes.\n\nMade learning smoother and more efficient.\n\n\n\nChallenges\n\nSometimes I needed to double-check suggestions to ensure accuracy.\n\nNeeded to adapt generic instructions to my specific project.\n\n\n\nFuture Use\nGenAI tools can assist in future studies and work by:\n- Quickly explaining new concepts.\n- Helping draft or organize content.\n- Acting as a guide for debugging and problem-solving.\n\n\nAdditional Thoughts\nUsing GenAI helped me work smart, not just hard, and I could focus on integrating my existing content rather than creating everything from scratch."
   },
   {
     "objectID": "reflection.html#what-is-the-genai-tool-you-have-used-why-did-you-choose-it",
@@ -79,9 +79,9 @@
   {
     "objectID": "dataviz.html",
     "href": "dataviz.html",
-    "title": "Data Visualization",
+    "title": "Learnings",
     "section": "",
-    "text": "During my studies, I worked with Tableau to create visualizations before building dashboards and storyboards.\n\n\n\nQuantitative data such as sales figures, survey responses, or performance metrics.\nThe goal was to understand trends and patterns in the data.\n\n\n\n\nBefore designing dashboards, I first created individual visualizations in Tableau to explore the data.\nThis helped me decide which charts to include and how to structure the dashboards and storyboards effectively.\n\n\n\nBy visualizing the raw data first, I could identify key insights and ensure that the final dashboards communicated the story clearly and accurately."
+    "text": "During my studies, I worked with Tableau to create visualizations before building dashboards and storyboards."
   },
   {
     "objectID": "dataviz.html#example-visualization",
@@ -135,7 +135,7 @@
   {
     "objectID": "dataviz.html#how-to-create-tableau-dashboard",
     "href": "dataviz.html#how-to-create-tableau-dashboard",
-    "title": "Data Visualization",
+    "title": "Learnings",
     "section": "How to create Tableau Dashboard",
     "text": "How to create Tableau Dashboard"
   }

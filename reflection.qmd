@@ -2,28 +2,28 @@
 title: "Reflection on the use of GenAI"
 ---
 
-## GenAI Tool Used
+### GenAI Tool Used
 I used **ChatGPT** to help me understand Quarto, GitHub Pages, and Markdown formatting. I chose it because it provides **quick and clear guidance**.
 
-## How it Helped
+### How it Helped
 - Step-by-step explanations for creating pages and editing `_quarto.yml`.  
 - Suggestions on formatting, bullet points, and Markdown best practices.  
 - Debugged small errors like YAML indentation and Markdown rendering issues.
 
-## Benefits
+### Benefits
 - Saved time by giving clear instructions.  
 - Helped me avoid common mistakes.  
 - Made learning smoother and more efficient.
 
-## Challenges
+### Challenges
 - Sometimes I needed to **double-check** suggestions to ensure accuracy.  
 - Needed to adapt generic instructions to my specific project.
 
-## Future Use
+### Future Use
 GenAI tools can assist in future studies and work by:  
 - Quickly explaining new concepts.  
 - Helping draft or organize content.  
 - Acting as a guide for debugging and problem-solving.
 
-## Additional Thoughts
+### Additional Thoughts
 Using GenAI helped me **work smart**, not just hard, and I could focus on integrating my existing content rather than creating everything from scratch.

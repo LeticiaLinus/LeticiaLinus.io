@@ -10,4 +10,4 @@ Hello, My name is Leticia! I'm currently a Y1 student at SIT and this website fo
 
 ### About Me
 - Programme: Applied Computing
-- Interests: Data analytics and Visualization
+- Interests: Data analytics, Visualization and Web development
