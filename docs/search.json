@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "temp_website",
+    "title": "Home",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hello, My name is Leticia! I’m currently a Y1 student at SIT and this website for AAI1001 Data Engineering & Visualization!\n\n\nAbout Me\n\nProgramme: Applied Computing\nInterests: Data analytics and Visualization"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,131 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#hello",
+    "href": "index.html#hello",
+    "title": "Home",
+    "section": "",
+    "text": "Hello, My name is Leticia! I’m currently a Y1 student at SIT and this website for AAI1001 Data Engineering & Visualization!\n\n\n\n\n\n\nProgramme: Applied Computing\nInterests: Data analytics and Visualization"
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "FYP Project",
+    "section": "",
+    "text": "Objective\nMy team and I developed a one-stop shop website for sporting goods where customers can purchase sports equipment and gear, similar to Decathlon.\n\n\nWhat I Learned\nThrough developing this one-stop e-commerce platform for sporting goods, I gained valuable experience in web development, including front-end and back-end programming, database management, and payment gateway integration. I developed skills in e-commerce functionality such as product catalog management, shopping cart systems, and order processing. Additionally, I strengthened my teamwork and collaboration abilities while working with my team, and gained insights into UX design principles and the sporting goods retail market."
+  },
+  {
+    "objectID": "project.html#my-poly-project",
+    "href": "project.html#my-poly-project",
+    "title": "FYP Project",
+    "section": "",
+    "text": "Explain what the project was about.\n\n\n\nDescribe the skills or knowledge you gained."
+  },
+  {
+    "objectID": "reflection.html",
+    "href": "reflection.html",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "I used ChatGPT to help me understand Quarto, GitHub Pages, and Markdown formatting. I chose it because it provides quick and clear guidance."
+  },
+  {
+    "objectID": "reflection.html#what-is-the-genai-tool-you-have-used-why-did-you-choose-it",
+    "href": "reflection.html#what-is-the-genai-tool-you-have-used-why-did-you-choose-it",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "I used ChatGPT to help me understand Quarto and GitHub Pages."
+  },
+  {
+    "objectID": "reflection.html#how-did-the-genai-tool-help-you-in-completing-the-assessment-with-examples",
+    "href": "reflection.html#how-did-the-genai-tool-help-you-in-completing-the-assessment-with-examples",
+    "title": "Reflection on the use of GenAI",
+    "section": "How did the GenAI tool help you in completing the assessment (with examples)?",
+    "text": "How did the GenAI tool help you in completing the assessment (with examples)?\n\nStep-by-step guidance\nDebugging errors"
+  },
+  {
+    "objectID": "reflection.html#what-do-you-think-are-beneficial-about-the-tool",
+    "href": "reflection.html#what-do-you-think-are-beneficial-about-the-tool",
+    "title": "Reflection on the use of GenAI",
+    "section": "What do you think are beneficial about the tool?",
+    "text": "What do you think are beneficial about the tool?\n\nFaster understanding\nClearer instructions"
+  },
+  {
+    "objectID": "reflection.html#what-do-you-think-are-challenging-about-the-tool",
+    "href": "reflection.html#what-do-you-think-are-challenging-about-the-tool",
+    "title": "Reflection on the use of GenAI",
+    "section": "What do you think are challenging about the tool?",
+    "text": "What do you think are challenging about the tool?\n\nNeed to check instructions carefully"
+  },
+  {
+    "objectID": "reflection.html#how-do-you-think-will-genai-tools-assist-you-for-your-future-study-or-work",
+    "href": "reflection.html#how-do-you-think-will-genai-tools-assist-you-for-your-future-study-or-work",
+    "title": "Reflection on the use of GenAI",
+    "section": "How do you think will GenAI tools assist you for your future study or work?",
+    "text": "How do you think will GenAI tools assist you for your future study or work?\nGenAI tools will help me with future coursework and projects."
+  },
+  {
+    "objectID": "dataviz.html",
+    "href": "dataviz.html",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "During my studies, I worked with Tableau to create visualizations before building dashboards and storyboards.\n\n\n\nQuantitative data such as sales figures, survey responses, or performance metrics.\nThe goal was to understand trends and patterns in the data.\n\n\n\n\nBefore designing dashboards, I first created individual visualizations in Tableau to explore the data.\nThis helped me decide which charts to include and how to structure the dashboards and storyboards effectively.\n\n\n\nBy visualizing the raw data first, I could identify key insights and ensure that the final dashboards communicated the story clearly and accurately."
+  },
+  {
+    "objectID": "dataviz.html#example-visualization",
+    "href": "dataviz.html#example-visualization",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "During my studies, I worked with Tableau to create visualizations before building dashboards and storyboards.\n\n\n\nQuantitative data such as sales figures, survey responses, or performance metrics.\nThe goal was to understand trends and patterns in the data.\n\n\n\n\nBefore designing dashboards, I first created individual visualizations in Tableau to explore the data.\nThis helped me decide which charts to include and how to structure the dashboards and storyboards effectively.\n\n\n\nBy visualizing the raw data first, I could identify key insights and ensure that the final dashboards communicated the story clearly and accurately."
+  },
+  {
+    "objectID": "reflection.html#genai-tool-used",
+    "href": "reflection.html#genai-tool-used",
+    "title": "Reflection on the use of GenAI",
+    "section": "",
+    "text": "I used ChatGPT to help me understand Quarto, GitHub Pages, and Markdown formatting. I chose it because it provides quick and clear guidance."
+  },
+  {
+    "objectID": "reflection.html#how-it-helped",
+    "href": "reflection.html#how-it-helped",
+    "title": "Reflection on the use of GenAI",
+    "section": "How it Helped",
+    "text": "How it Helped\n\nStep-by-step explanations for creating pages and editing _quarto.yml.\n\nSuggestions on formatting, bullet points, and Markdown best practices.\n\nDebugged small errors like YAML indentation and Markdown rendering issues."
+  },
+  {
+    "objectID": "reflection.html#benefits",
+    "href": "reflection.html#benefits",
+    "title": "Reflection on the use of GenAI",
+    "section": "Benefits",
+    "text": "Benefits\n\nSaved time by giving clear instructions.\n\nHelped me avoid common mistakes.\n\nMade learning smoother and more efficient."
+  },
+  {
+    "objectID": "reflection.html#challenges",
+    "href": "reflection.html#challenges",
+    "title": "Reflection on the use of GenAI",
+    "section": "Challenges",
+    "text": "Challenges\n\nSometimes I needed to double-check suggestions to ensure accuracy.\n\nNeeded to adapt generic instructions to my specific project."
+  },
+  {
+    "objectID": "reflection.html#future-use",
+    "href": "reflection.html#future-use",
+    "title": "Reflection on the use of GenAI",
+    "section": "Future Use",
+    "text": "Future Use\nGenAI tools can assist in future studies and work by:\n- Quickly explaining new concepts.\n- Helping draft or organize content.\n- Acting as a guide for debugging and problem-solving."
+  },
+  {
+    "objectID": "reflection.html#additional-thoughts",
+    "href": "reflection.html#additional-thoughts",
+    "title": "Reflection on the use of GenAI",
+    "section": "Additional Thoughts",
+    "text": "Additional Thoughts\nUsing GenAI helped me work smart, not just hard, and I could focus on integrating my existing content rather than creating everything from scratch."
+  },
+  {
+    "objectID": "dataviz.html#how-to-create-tableau-dashboard",
+    "href": "dataviz.html#how-to-create-tableau-dashboard",
+    "title": "Data Visualization",
+    "section": "How to create Tableau Dashboard",
+    "text": "How to create Tableau Dashboard"
   }
 ]

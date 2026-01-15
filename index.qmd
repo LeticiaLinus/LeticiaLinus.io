@@ -1,11 +1,13 @@
 ---
-title: "temp_website"
+title: "Home"
 ---
 
-This is a Quarto website.
+::: {style="display: flex; align-items: center; gap: 20px;"}
+![](sit.png){height="100px"}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Hello, My name is Leticia! I'm currently a Y1 student at SIT and this website for AAI1001 Data Engineering & Visualization!
+:::
 
-```{r}
-1 + 1
-```
+### About Me
+- Programme: Applied Computing
+- Interests: Data analytics and Visualization

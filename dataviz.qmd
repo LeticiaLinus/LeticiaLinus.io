@@ -1,0 +1,19 @@
+---
+title: "Learnings"
+---
+
+During my studies, I worked with **Tableau** to create visualizations before building dashboards and storyboards.  
+
+### What I Visualized
+- Quantitative data such as sales figures, survey responses, or performance metrics.
+- The goal was to understand trends and patterns in the data.
+
+### Story Behind the Task
+Before designing dashboards, I first created individual visualizations in Tableau to explore the data.  
+This helped me decide **which charts to include** and how to structure the dashboards and storyboards effectively.  
+
+### Rationale
+By visualizing the raw data first, I could identify key insights and ensure that the final dashboards communicated the story clearly and accurately.
+
+## How to create Tableau Dashboard
+{{< video https://www.youtube.com/watch?v=oAIubTqg-Kw&list=PLO9LeSU_vHCU_DHaLzEvsLxFdmB3Qcao_ width="600" height="400" >}}

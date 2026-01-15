@@ -1,0 +1,9 @@
+---
+title: "FYP Project"
+---
+
+### Objective
+My team and I developed a one-stop shop website for sporting goods where customers can purchase sports equipment and gear, similar to Decathlon.
+
+### What I Learned
+Through developing this one-stop e-commerce platform for sporting goods, I gained valuable experience in web development, including front-end and back-end programming, database management, and payment gateway integration. I developed skills in e-commerce functionality such as product catalog management, shopping cart systems, and order processing. Additionally, I strengthened my teamwork and collaboration abilities while working with my team, and gained insights into UX design principles and the sporting goods retail market.
